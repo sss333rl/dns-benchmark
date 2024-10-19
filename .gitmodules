@@ -1,0 +1,9 @@
+[submodule "dnspyre"]
+	path = dnspyre
+	url = https://github.com/Tantalor93/dnspyre.git
+[submodule "curl.wiki"]
+	path = curl.wiki
+	url = https://github.com/curl/curl.wiki.git
+[submodule "KnowledgeBaseDNS"]
+	path = KnowledgeBaseDNS
+	url = https://github.com/AdguardTeam/KnowledgeBaseDNS.git
