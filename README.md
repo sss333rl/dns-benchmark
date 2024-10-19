@@ -11,7 +11,10 @@
 
 > 可点击柱状图的每个柱子复制对应 DNS 服务器地址
 >
-> 标题下按钮可切换数据源，默认为`加密 DNS 服务器（DoH、DoT、QUIC）`
+> 标题下按钮可切换数据源，有
+> - `加密 DNS 服务器（DoH、DoT、QUIC）`
+> - `所有 DNS 服务器数据（加密 DNS 服务器 + IPv4、IPv6 非加密服务器）`
+> 
 
 [数据页面](https://xxnuo.github.io/dns-benchmark/results.html)
 
